@@ -20,10 +20,9 @@ Home Page
 ![image](https://user-images.githubusercontent.com/69420024/146934140-1f98154c-585c-43fb-b9fc-fa1636461851.png)
 
  
-Page       |  Food Pre-Order Page
-:-------------------------:|:-------------------------:
+Food Pre-Order Page
 ![food_preorder1](https://user-images.githubusercontent.com/69420024/146934573-ce5ee8b4-ce52-4176-9a4f-2ab2eb854267.PNG)
-|![view_food_preorder_list](https://user-images.githubusercontent.com/69420024/146934671-63703574-7cda-40a9-ba18-dbcf87425bfe.PNG)
+![view_food_preorder_list](https://user-images.githubusercontent.com/69420024/146934671-63703574-7cda-40a9-ba18-dbcf87425bfe.PNG)
 
 Table Booking Page 
 :-------------------------:
