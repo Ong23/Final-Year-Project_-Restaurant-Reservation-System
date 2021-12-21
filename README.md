@@ -81,6 +81,8 @@ To run this app, you will need to follow these 3 steps:
   
   # Open http://localhost/FOLDER-NAME/index.php
 
+
+
 ## Status
 Project is _completed_.
 
