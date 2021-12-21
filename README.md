@@ -9,14 +9,10 @@ A web-based table booking system with multipple features such as restaurant menu
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
-* [Contact](#contact)
-* [License](#license)
-* [Contributing](#contributing)
 
 
 ## General info
-A multi-lingual E-Commerce website I built with Python and Django for my final(senior) year project. It supports 10 international languages and has a lot of features a standard online shop needs.
-
+A web-based Restaurant Reservation System, built with mainly PHP, HTML, CSS and Javascript for my final year project. 
 ## Screenshots
 
 Home Page
@@ -25,42 +21,33 @@ Home Page
  
 Product List Page       |  Product Detail Page
 :-------------------------:|:-------------------------:
-![shop](https://user-images.githubusercontent.com/19711677/86519337-79714d00-bdff-11ea-88a0-4001d8ab386a.JPG) | ![Product Detail Page](https://user-images.githubusercontent.com/19711677/86519245-7aee4580-bdfe-11ea-802f-154ad56b80ff.JPG)
+![shop](LINK) | ![Product Detail Page]()
 
 Checkout Page 
 :-------------------------:
-![Checkout page](https://user-images.githubusercontent.com/19711677/86519248-7b86dc00-bdfe-11ea-9df0-4b1113de6938.JPG)
+![Checkout page](LINK)
 
 
-PayPal Payment Page
-:-------------------------:
-![Payment Page](https://user-images.githubusercontent.com/19711677/86519247-7b86dc00-bdfe-11ea-81f5-6a32aa760d7d.JPG)
 
 ## Features
 
-* Multi-language support (10 international language)
-* PayPal payment
-* Customer Dashboard
-* Owner Dashboard
-* Google Analytics
-* Product Reviews
-* Product Recommendations
-* Ad support
-* Live Chat Support
+* Table Booking
+* Reservation Management
+* Restaurant Menu Management
+* Reservation Status Email Notification
+* Exporting Report Feature
+* Reporting Feature 
+* Food Pre-order
 
 ## Technologies
-* Python 3
+* PHP
 * Javascript
-* Jquery 
-* Django 1.11
 * HTML5
-* CSS3 
+* CSS 
 * Bootstrap 4
 * Font awesome
-* PostgreSQL
-* Celery
-* Redis
-* Ngrok
+* FPFD Library
+* PHPMailer Library
 
 ## Setup
 
@@ -69,68 +56,33 @@ To run this app, you will need to follow these 3 steps:
 #### 1. Requirements
   - a Laptop
 
-  - Text Editor or IDE (eg. vscode, PyCharm)
+  - Text Editor (eg. vscode, notepad++)
 
   - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your Laptop.
 
 
-#### 2. Install Python and Pipenv
-  - [Python3](https://www.python.org/downloads/)
+#### 2. Install WampServer
+  - [WampServer](https://www.wampserver.com/en/)
   
 
-  - [Pipenv](https://pipenv-es.readthedocs.io/es/stable/)
-
-#### 3. Local Setup and Running on Windows, Linux and Mac OS
+#### 3. Local Setup
 
   ```
   # Clone this repository into the directory of your choice
-  $ git clone https://github.com/Williano/Final-Senior-Year-Project-.git
+  $ git clone https://github.com/Ong23/Final-Year-Project_-Restaurant-Reservation-System.git
 
-  # Move into project folder
-  $ cd Final-Senior-Year-Project-
+  # Move all project files into folder
 
-  # Install from Pipfile
-  $ pipenv install -r requirements.txt 
-
-  # Activate the Pipenv shell
-  $ pipenv shell
-
-  # Create database tables
-  (Final-Senior-Year-Project-XXXX) $ python manage.py migrate
+  # Move project folder into the following folder path
+  $ cd wamp64/www
   
-  # Create superuser account
-  (Final-Senior-Year-Project-XXXX) $ python manage.py createsuperuser
-
-  # Start server
-  (Final-Senior-Year-Project-XXXX) $ python manage.py runserver
+  # Open phpMyAdmin http://localhost/phpmyadmin/index.php
+  # Create database and import loginsystem.sql file
   
-  # Copy the IP address provided once your server has completed building the site. (It will say something like >> Serving at 127.0.0.1....).
-  
-  # Open the address in the browser
-  >>> http://127.0.0.1:XXXX
-  
-  
-  # Django Admin
-  >>> http://127.0.0.1:XXXX/admin/
-  ```
-
+  # Open http://localhost/FOLDER-NAME/index.php
 
 ## Status
-Project is: _done_
+Project is _completed_.
 
-## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
 
-## License
->You can check out the full license [here](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
-
-This project is licensed under the terms of the **MIT** license.
-
-## Contributing
-
-1. Fork it (<https://github.com/Williano/Final-Senior-Year-Project-.git>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
