@@ -16,6 +16,7 @@ A web-based Restaurant Reservation System, built with mainly PHP, HTML, CSS and 
 
 Home Page
 :-------------------------:
+![Home page] (![image](https://user-images.githubusercontent.com/69420024/146934140-1f98154c-585c-43fb-b9fc-fa1636461851.png))
 
  
 Product List Page       |  Product Detail Page
