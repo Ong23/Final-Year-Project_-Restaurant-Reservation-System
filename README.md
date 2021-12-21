@@ -8,7 +8,6 @@ A web-based table booking system with multipple features such as restaurant menu
 * [Features](#features)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Status](#status)
 
 
 ## General info
