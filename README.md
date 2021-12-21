@@ -21,27 +21,6 @@ A multi-lingual E-Commerce website I built with Python and Django for my final(s
 
 Home Page
 :-------------------------:
-![HomePage](https://user-images.githubusercontent.com/19711677/86519243-7a55af00-bdfe-11ea-8a43-a9850710bd82.JPG)
-
-
-Language Dropdown Page
-:-------------------------:
-![HomePage language dropdown](https://user-images.githubusercontent.com/19711677/86519338-79714d00-bdff-11ea-8780-a09ec73ef9d4.JPG)
-
-
- Shop Owner Dashboard Page
-:-------------------------:
-![Shop Owner or Manger Page with Google Analytics](https://user-images.githubusercontent.com/19711677/86519242-79bd1880-bdfe-11ea-8681-a613f0e77faf.JPG)
-
-
-Customer Dashboard Page
-:-------------------------:
-![customer dashboard](https://user-images.githubusercontent.com/19711677/86519241-79bd1880-bdfe-11ea-946c-27d0adf8745b.JPG)
-
-
-Live Chat Support           
-:-------------------------:
-![live chat support](https://user-images.githubusercontent.com/19711677/86519249-7b86dc00-bdfe-11ea-8809-cb1e7c304637.JPG)
 
  
 Product List Page       |  Product Detail Page
