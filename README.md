@@ -1,5 +1,5 @@
 # Restaurant Reservation System
-A web-based table booking system with multipple features such as restaurant menu management, reporting feature, and so on.
+A web-based table booking system with multiple features such as restaurant menu management, reporting feature, and so on.
 
 
 ## Table of contents
@@ -12,21 +12,30 @@ A web-based table booking system with multipple features such as restaurant menu
 
 ## General info
 A web-based Restaurant Reservation System, built with mainly PHP, HTML, CSS and Javascript for my final year project. 
+Users: Admin, Customers(Diners)
 ## Screenshots
 
 Home Page
 :-------------------------:
-![Home page] (![image](https://user-images.githubusercontent.com/69420024/146934140-1f98154c-585c-43fb-b9fc-fa1636461851.png))
+![image](https://user-images.githubusercontent.com/69420024/146934140-1f98154c-585c-43fb-b9fc-fa1636461851.png)
 
  
-Product List Page       |  Product Detail Page
+Page       |  Food Pre-Order Page
 :-------------------------:|:-------------------------:
-![shop](LINK) | ![Product Detail Page]()
+![food_preorder1](https://user-images.githubusercontent.com/69420024/146934573-ce5ee8b4-ce52-4176-9a4f-2ab2eb854267.PNG)
+|![view_food_preorder_list](https://user-images.githubusercontent.com/69420024/146934671-63703574-7cda-40a9-ba18-dbcf87425bfe.PNG)
 
-Checkout Page 
+Table Booking Page 
 :-------------------------:
-![Checkout page](LINK)
+![create_reservation](https://user-images.githubusercontent.com/69420024/146934331-ec483930-0876-4eba-ac9c-11602c573791.PNG)
 
+Restaurant Menu Management Page 
+:-------------------------:
+![manage_menu](https://user-images.githubusercontent.com/69420024/146934944-d146373a-0ccc-4784-83e7-ad1711f05631.PNG)
+
+Restaurant Menu Page 
+:-------------------------:
+![restaurant_menu](https://user-images.githubusercontent.com/69420024/146934744-00bb893c-a937-44d3-8377-81a284d40864.PNG)
 
 
 ## Features
